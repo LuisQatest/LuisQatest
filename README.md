@@ -11,7 +11,8 @@ Soy un **QA Tester** con experiencia en pruebas manuales y automatizadas. Me apa
 - Metodologías ágiles: Scrum, Kanban
 
 ## Proyecto destacado
-[Documentación del proyecto](https://github.com/LuisQatest/Portafolio_QA_Luis)
+[Portafolio_QA_Luis 📁](https://github.com/LuisQatest/Portafolio_QA_Luis) 
+
 
 ## 📬 Contáctame
 
